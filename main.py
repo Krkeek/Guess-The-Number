@@ -3,7 +3,7 @@ import random
 
 is_game_over = False
 attempts = 0
-CORRECT_NUMBER = random.randint(1, 101)
+CORRECT_NUMBER = random.randint(1, 100)
 print(logo)
 print("Welcome to the Number Guessing Game!")
 print("I'm thinking about a number between 1 and 100")
